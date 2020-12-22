@@ -22,3 +22,28 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 326ms (Views: 244.7ms | ActiveRecord: 0.0ms | Allocations: 3661)
 
 
+Started GET "/" for ::1 at 2020-12-22 15:43:34 -0500
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/carlos/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/railties-6.1.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/carlos/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/railties-6.1.0/lib/rails/templates/rails/welcome/index.html.erb (Duration: 88.6ms | Allocations: 338)
+Completed 200 OK in 167ms (Views: 109.1ms | ActiveRecord: 0.0ms | Allocations: 2472)
+
+
+Started GET "/users" for ::1 at 2020-12-22 15:44:05 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+Started GET "/users/new.html.erb" for ::1 at 2020-12-22 15:44:44 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/users/new.html.erb"):
+  
+Started GET "/new.html.erb" for ::1 at 2020-12-22 15:45:06 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/new.html.erb"):
+  
+Started GET "/users" for ::1 at 2020-12-22 15:48:18 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
