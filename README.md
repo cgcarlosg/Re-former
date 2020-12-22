@@ -1,4 +1,4 @@
-# Building with Active Record: Micro Reddit App
+# Building with 
 
 This is a back-end version of 
 
