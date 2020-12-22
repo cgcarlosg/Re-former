@@ -1,0 +1,9 @@
+<%= form_for @user, method: :patch do |f| %>
+    <% if @user.errors.any? %>
+        @user.errors
+    <%end%>
+    username: <%= f.text_field :username, placeholder: "your new username" %><br />
+    email : <%= f.text_field :email %><br />
+    password : <%= f.password_field :password %><br />
+    <%= f.submit "Upadte" %>
+  <% end %>
