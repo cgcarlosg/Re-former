@@ -1,24 +1,38 @@
-# README
+# Building using forms
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In this project we build a form the old fashioned way and then the Rails way.
 
-Things you may want to cover:
+![Re-former]()
 
-* Ruby version
+# Built With
 
-* System dependencies
+Ruby on Rails
+GitFlow
+Sqlite3
+Rubocop
 
-* Configuration
+# Authors
 
-* Database creation
+Github: @imran5644
+Twitter: @imran56444
+Linkedin: Imran Yousaf
 
-* Database initialization
+GitHub: @cgcarlosg
+Twitter: @cgcarlosg1
+LinkedIn: Carlos albenio gutierrez
 
-* How to run the test suite
+## Contributing
+Contributions, issues and feature requests are welcome!
 
-* Services (job queues, cache servers, search engines, etc.)
+## Feel free to check the issues page.
 
-* Deployment instructions
+## Show your support
+Give a star if you like this project!
 
-* ...
+## Acknowledgments
+Hat tip to anyone whose code was used
+Inspiration
+etc
+
+## License
+This project is MIT licensed.
