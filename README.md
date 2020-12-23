@@ -2,7 +2,7 @@
 
 In this project we build a form the old fashioned way and then the Rails way.
 
-![Re-former]()
+![Re-former](https://github.com/cgcarlosg/Re-former/blob/feature/app/assets/images/Captura%20de%20pantalla%20de%202020-12-23%2009-45-20.png)
 
 # Built With
 
